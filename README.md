@@ -1,2 +1,2 @@
-# test-redux-js
-introduction for learn redux.js
+# test-react-js
+introduction for learn react existing project
